@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
-  <path fill="#000" d="M22.25 4h-8.5a1 1 0 0 0-.96.73l-5.54 19.4a.5.5 0 0 0 .62.62l5.05-1.44a2 2 0 0 0 1.38-1.4l3.22-11.66a.5.5 0 0 1 .96 0l3.22 11.67a2 2 0 0 0 1.38 1.39l5.05 1.44a.5.5 0 0 0 .62-.62l-5.54-19.4a1 1 0 0 0-.96-.73Z"/>
-  <path fill="url(#gradient)" d="M18 28a7.63 7.63 0 0 1-5-2c-1.4 2.1-.35 4.35.6 5.55.14.17.41.07.47-.15.44-1.8 2.93-1.22 2.93.6 0 2.28.87 3.4 1.72 3.81.34.16.59-.2.49-.56-.31-1.05-.29-2.46 1.29-3.25 3-1.5 3.17-4.83 2.5-6-.67.67-2.6 2-5 2Z"/>
-  <defs>
-    <linearGradient id="gradient" x1="16" x2="16" y1="32" y2="24" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#000"/>
-      <stop offset="1" stop-color="#000" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-	<style>
-    @media (prefers-color-scheme:dark){:root{filter:invert(100%)}}
-  </style>
-</svg>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" fill="#000000" style="--darkreader-inline-fill: #000000;" data-darkreader-inline-fill=""><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M1,18.42L22.46,44.16a2,2,0,0,0,3.07,0L47,18.42H1Z" fill="#299acc" style="--darkreader-inline-fill: #217ba3;" data-darkreader-inline-fill=""></path><path d="M36.6,3.42H11.4A4,4,0,0,0,7.87,5.53L1,18.42H47L40.13,5.53A4,4,0,0,0,36.6,3.42Z" fill="#38b1e7" style="--darkreader-inline-fill: #1478a5;" data-darkreader-inline-fill=""></path><path d="M22.08,43.38L15,18.42H33l-7.08,25A2,2,0,0,1,22.08,43.38Z" fill="#61c0ea" style="--darkreader-inline-fill: #13678c;" data-darkreader-inline-fill=""></path><polygon points="33 18.42 15 18.42 14 3.42 34 3.42 33 18.42" fill="#89d0ef" style="--darkreader-inline-fill: #105574;" data-darkreader-inline-fill=""></polygon></g></svg>
